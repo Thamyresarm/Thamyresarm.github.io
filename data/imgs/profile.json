@@ -59,16 +59,6 @@
     ],
     "portfolio": [
         {
-           "name": "Projetos Imersão Alura",
-           "url": "https://github.com/Thamyresarm/projetos-Imersao-alura",
-           "github": true
-        },
-        {
-           "name": "Semana Frontend DIO - Mundo Invertido",
-           "url": "https://github.com/Thamyresarm/dio-semana-frontend-mundo-invertido",
-           "github": true
-         },
-        {
             "name": "Curso Realizado na DIO para a criação de uma Pokedex",
             "url": "https://github.com/Thamyresarm/dio-formacao-JavaScript/tree/main/DesafiosdeProjetos/Pokedex",
             "github": true
