@@ -69,13 +69,38 @@
            "github": true
          },
         {
+           "name": "NLW e-Sports Trilha Explorer - Rocketseat",
+           "url": "https://github.com/Thamyresarm/rocketseat-nlw-projeto-TrilhaExplorer",
+           "github": true
+         },
+         {
             "name": "Curso Realizado na DIO para a criação de uma Pokedex",
             "url": "https://github.com/Thamyresarm/dio-formacao-JavaScript/tree/main/DesafiosdeProjetos/Pokedex",
             "github": true
         },
         {
-            "name": "Curso Realizado na DIO para a criação de uma página de portfolio",
-            "url": "https://github.com/Thamyresarm/dio-formacao-JavaScript/tree/main/DesafiosdeProjetos/Portifolio",
+           "name": "Posicionando Elementos com Flexbox em CSS - DIO",
+           "url": "https://github.com/Thamyresarm/curso-dio-css-flexbox",
+           "github": true
+         },
+        {
+           "name": "Introdução JS ToDo List - DIO",
+           "url": "https://github.com/Thamyresarm/curso-dio-introducao-js",
+           "github": true
+         },
+        {
+           "name": "Manipulando DOM - DIO",
+           "url": "https://github.com/Thamyresarm/curso-dio-manipulando-DOM",
+           "github": true
+         },
+        {
+            "name": "Introdução JS contador - DIO",
+            "url": "https://github.com/Thamyresarm/curso-dio-introducao-js/tree/master/Contador",
+            "github": true
+        },
+        {
+            "name": "Projeto API em NestJs ",
+            "url": "https://github.com/Thamyresarm/Ame-Projeto-NestJS",
             "github": true
         }
     ],

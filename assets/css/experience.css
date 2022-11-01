@@ -3,10 +3,10 @@
     flex-direction: column;
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style: none; 
 }
 
-.experience li {
+.experience li{
     margin-bottom: 1rem;
 }
 
@@ -16,8 +16,8 @@
     align-items: center;
 }
 
-.experience li .period::before {
-    content: "";
+.experience li .period::before{
+    content:'';
     display: inline-block;
     width: 1rem;
     height: 1rem;
